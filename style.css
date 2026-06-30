@@ -131,14 +131,15 @@ body {
 }
 
 .tile {
-    align-self: center;
+    align-self: flex-start;
     text-align: center;
-    width: 140px;
+    width: 150px;
 }
 
 .tile-image {
     border: 6px solid #3882f6;
     width: 140px;
+    text-align: center;
 }
 
 .tile-text {
